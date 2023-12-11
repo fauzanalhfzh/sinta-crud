@@ -103,6 +103,7 @@ $no = 0;
               </h6>
             </div>
             <div class="card-body">
+              <div class="table-responsive">
               <table class="table table-hover">
                 <thead>
                   <tr>
@@ -150,6 +151,7 @@ $no = 0;
                   ?>
                 </tbody>
               </table>
+              </div>
             </div>
           </div>
         </div>
